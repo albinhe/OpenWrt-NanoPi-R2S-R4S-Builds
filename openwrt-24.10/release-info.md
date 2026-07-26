@@ -1,7 +1,7 @@
 ## OpenWrt 24.10
 
 ### General Info
-- Based of openwrt 24.10.7
+- Based of openwrt 24.10.8
 
 ### Notes
 - For R2C/R2S, theres almost no difference with official builds, except the preinstalled package set
@@ -28,3 +28,4 @@
 - [2025-11-02] Update adguardhome
 - [2025-12-19] OpenWrt 24.10.5 + update adguardhome
 - [2026-06-22] OpenWrt 24.10.7 + update pbr
+- [2026-07-27] OpenWrt 24.10.8 + update adguardhome
