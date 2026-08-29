@@ -1,1 +1,23 @@
+# Build directories
 build/
+**/build/
+r4s-1gb-25.12/build/
+
+# Output and artifact directories
+output/
+**/output/
+artifact/
+**/artifact/
+
+# Generated images and firmware
+*.img
+*.img.gz
+
+# OpenWrt configuration and temporary files
+.config
+.config.old
+.config.orig
+.config.*
+
+# Logs
+*.log
